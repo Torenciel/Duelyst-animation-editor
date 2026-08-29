@@ -121,7 +121,6 @@ export async function loadItem(name) {
 
   animBtnGroup.innerHTML =
     '<span style="color:#555a70;font-size:12px">Loading…</span>';
-  frameEditor.style.display = "none";
 
   const { dist, customDist } = TABS[activeTab];
   const animsUrl = await fetch(`${API}/${customDist}/${name}_anims.json`, {
