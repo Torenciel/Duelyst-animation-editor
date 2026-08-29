@@ -255,10 +255,3 @@ Each unit or FX entry consists of three files:
 4. Place the recolored `.png` and both `.json` files into `dist-custom/`
 5. The unit appears in the Units ★ tab as `{original_name}_recolor`
 
----
-
-## GitHub Pages demo
-
-The demo is built automatically by GitHub Actions on every push and deployed to GitHub Pages. It is sourced from `demo-assets/` — a hand-picked subset of units/FX committed to the repo — so `dist/` (which can be hundreds of MBs) never gets pushed.
-
-To add or change demo units, place their files in `demo-assets/dist/` or `demo-assets/dist-fx/` and update the corresponding `manifest.json`.
