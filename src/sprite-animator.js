@@ -1,4 +1,4 @@
-class SpriteAnimator {
+export class SpriteAnimator {
   constructor(image, atlas, animations) {
     this.image = image;
     this.atlas = atlas && atlas.frames ? atlas.frames : {};

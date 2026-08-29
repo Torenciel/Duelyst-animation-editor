@@ -2,7 +2,13 @@
         box-sizing: border-box;
         margin: 0;
         padding: 0;
+        scrollbar-width: thin;
+        scrollbar-color: #2a2e42 #0f1015;
       }
+      ::-webkit-scrollbar { width: 6px; height: 6px; }
+      ::-webkit-scrollbar-track { background: #0f1015; }
+      ::-webkit-scrollbar-thumb { background: #2a2e42; border-radius: 3px; }
+      ::-webkit-scrollbar-thumb:hover { background: #3a3f5c; }
 
       html,
       body {
