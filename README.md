@@ -2,6 +2,8 @@
 
 A browser-based tool for viewing and editing Duelyst sprite animations, with a conversion pipeline to transform the original Cocos2d `.plist` spritesheets into a format compatible with Phaser 3 and Canvas 2D.
 
+**[Live demo](https://torenciel.github.io/Duelyst-animation-editor/viewer.html)** — read-only preview with a selection of units and FX.
+
 ![demo](demo.gif)
 
 ---
