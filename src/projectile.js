@@ -274,7 +274,7 @@ projSaveBtn.addEventListener("click", async () => {
 });
 
 export function showProjPanel() {
-  if (!isFxTab) {
+  if (!isFxTab && !STATIC_MODE) {
     projPanel.style.display = "flex";
     syncProjPanelFromConfig();
   }
