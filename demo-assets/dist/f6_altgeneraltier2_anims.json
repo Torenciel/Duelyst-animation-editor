@@ -1,0 +1,530 @@
+[
+  {
+    "key": "f6_altgeneraltier2_attack",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_attack_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_005",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_006",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_007",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_008",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_009",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_010",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_011",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_012",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_013",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_014",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_015",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_016",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_017",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_018",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_019",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_020",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_021",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_022",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_023",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_024",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_025",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_026",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_027",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_028",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_attack_029",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_breathing",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_breathing_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_005",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_006",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_007",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_008",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_009",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_010",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_011",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_012",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_breathing_013",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_cast",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_cast_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_005",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_006",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_007",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_008",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_009",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_010",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_011",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_cast_012",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_castend",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_castend_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castend_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castend_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castend_003",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_castloop",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_castloop_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castloop_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castloop_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castloop_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castloop_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_castloop_005",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_caststart",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_caststart_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_caststart_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_caststart_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_caststart_003",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_death",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_death_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_005",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_006",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_007",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_008",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_009",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_010",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_011",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_012",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_013",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_014",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_015",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_016",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_017",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_death_018",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_hit",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_hit_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_hit_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_hit_002",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_idle",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_idle_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_005",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_006",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_007",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_008",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_009",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_010",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_011",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_012",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_013",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_014",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_idle_015",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f6_altgeneraltier2_run",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f6_altgeneraltier2_run_000",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_001",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_002",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_003",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_004",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_005",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_006",
+        "duration": 50
+      },
+      {
+        "name": "f6_altgeneraltier2_run_007",
+        "duration": 50
+      }
+    ]
+  }
+]

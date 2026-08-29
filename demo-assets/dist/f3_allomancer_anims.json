@@ -1,0 +1,518 @@
+[
+  {
+    "key": "f3_allomancer_attack",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f3_allomancer_attack_000",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_001",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_002",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_003",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_004",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_005",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_006",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_007",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_008",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_009",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_010",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_011",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_012",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_013",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_014",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_015",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_016",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_017",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_018",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_019",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_020",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_021",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_022",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_023",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_024",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_025",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_026",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_027",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_028",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_029",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_030",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_031",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_032",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_033",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_034",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_035",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_036",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_037",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_038",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_039",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_040",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_041",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_042",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_043",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_044",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_045",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_046",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_047",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_048",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_049",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_050",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_051",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_052",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_attack_053",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f3_allomancer_breathing",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f3_allomancer_breathing_000",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_001",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_002",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_003",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_004",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_005",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_006",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_007",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_008",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_009",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_010",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_011",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_012",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_breathing_013",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f3_allomancer_death",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "f3_allomancer_death_000",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_001",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_002",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_003",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_004",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_005",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_006",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_007",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_008",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_009",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_010",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_011",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_012",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_013",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_014",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_015",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_016",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_017",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_018",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_019",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_020",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_021",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_022",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_023",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_024",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_025",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_026",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_027",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_death_028",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f3_allomancer_hit",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "f3_allomancer_hit_000",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_hit_001",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_hit_002",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f3_allomancer_idle",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f3_allomancer_idle_000",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_001",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_002",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_003",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_004",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_005",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_006",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_007",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_008",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_009",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_010",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_idle_011",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f3_allomancer_run",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f3_allomancer_run_000",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_001",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_002",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_003",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_004",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_005",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_006",
+        "duration": 50
+      },
+      {
+        "name": "f3_allomancer_run_007",
+        "duration": 50
+      }
+    ]
+  }
+]

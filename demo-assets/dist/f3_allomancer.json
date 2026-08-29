@@ -1,0 +1,1084 @@
+{
+  "frames": {
+    "f3_allomancer_attack_000": {
+      "frame": {
+        "x": 505,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_001": {
+      "frame": {
+        "x": 1010,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_002": {
+      "frame": {
+        "x": 1010,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_003": {
+      "frame": {
+        "x": 909,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_004": {
+      "frame": {
+        "x": 909,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_005": {
+      "frame": {
+        "x": 909,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_006": {
+      "frame": {
+        "x": 909,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_007": {
+      "frame": {
+        "x": 909,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_008": {
+      "frame": {
+        "x": 909,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_009": {
+      "frame": {
+        "x": 909,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_010": {
+      "frame": {
+        "x": 909,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_011": {
+      "frame": {
+        "x": 909,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_012": {
+      "frame": {
+        "x": 909,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_013": {
+      "frame": {
+        "x": 808,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_014": {
+      "frame": {
+        "x": 808,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_015": {
+      "frame": {
+        "x": 808,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_016": {
+      "frame": {
+        "x": 808,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_017": {
+      "frame": {
+        "x": 808,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_018": {
+      "frame": {
+        "x": 808,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_019": {
+      "frame": {
+        "x": 808,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_020": {
+      "frame": {
+        "x": 808,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_021": {
+      "frame": {
+        "x": 808,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_022": {
+      "frame": {
+        "x": 808,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_023": {
+      "frame": {
+        "x": 707,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_024": {
+      "frame": {
+        "x": 707,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_025": {
+      "frame": {
+        "x": 707,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_026": {
+      "frame": {
+        "x": 707,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_027": {
+      "frame": {
+        "x": 707,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_028": {
+      "frame": {
+        "x": 707,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_029": {
+      "frame": {
+        "x": 707,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_030": {
+      "frame": {
+        "x": 707,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_031": {
+      "frame": {
+        "x": 707,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_032": {
+      "frame": {
+        "x": 707,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_033": {
+      "frame": {
+        "x": 606,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_034": {
+      "frame": {
+        "x": 606,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_035": {
+      "frame": {
+        "x": 606,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_036": {
+      "frame": {
+        "x": 606,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_037": {
+      "frame": {
+        "x": 606,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_038": {
+      "frame": {
+        "x": 606,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_039": {
+      "frame": {
+        "x": 606,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_040": {
+      "frame": {
+        "x": 606,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_041": {
+      "frame": {
+        "x": 606,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_042": {
+      "frame": {
+        "x": 606,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_043": {
+      "frame": {
+        "x": 505,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_044": {
+      "frame": {
+        "x": 505,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_045": {
+      "frame": {
+        "x": 505,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_046": {
+      "frame": {
+        "x": 505,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_047": {
+      "frame": {
+        "x": 505,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_048": {
+      "frame": {
+        "x": 505,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_049": {
+      "frame": {
+        "x": 505,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_050": {
+      "frame": {
+        "x": 505,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_051": {
+      "frame": {
+        "x": 1010,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_052": {
+      "frame": {
+        "x": 505,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_attack_053": {
+      "frame": {
+        "x": 404,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_000": {
+      "frame": {
+        "x": 404,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_001": {
+      "frame": {
+        "x": 404,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_002": {
+      "frame": {
+        "x": 404,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_003": {
+      "frame": {
+        "x": 404,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_004": {
+      "frame": {
+        "x": 404,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_005": {
+      "frame": {
+        "x": 404,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_006": {
+      "frame": {
+        "x": 404,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_007": {
+      "frame": {
+        "x": 404,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_008": {
+      "frame": {
+        "x": 404,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_009": {
+      "frame": {
+        "x": 404,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_010": {
+      "frame": {
+        "x": 404,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_011": {
+      "frame": {
+        "x": 404,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_012": {
+      "frame": {
+        "x": 303,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_breathing_013": {
+      "frame": {
+        "x": 303,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_000": {
+      "frame": {
+        "x": 303,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_001": {
+      "frame": {
+        "x": 303,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_002": {
+      "frame": {
+        "x": 303,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_003": {
+      "frame": {
+        "x": 303,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_004": {
+      "frame": {
+        "x": 303,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_005": {
+      "frame": {
+        "x": 303,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_006": {
+      "frame": {
+        "x": 303,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_007": {
+      "frame": {
+        "x": 303,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_008": {
+      "frame": {
+        "x": 303,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_009": {
+      "frame": {
+        "x": 202,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_010": {
+      "frame": {
+        "x": 202,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_011": {
+      "frame": {
+        "x": 202,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_012": {
+      "frame": {
+        "x": 202,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_013": {
+      "frame": {
+        "x": 202,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_014": {
+      "frame": {
+        "x": 202,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_015": {
+      "frame": {
+        "x": 202,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_016": {
+      "frame": {
+        "x": 202,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_017": {
+      "frame": {
+        "x": 202,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_018": {
+      "frame": {
+        "x": 202,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_019": {
+      "frame": {
+        "x": 101,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_020": {
+      "frame": {
+        "x": 101,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_021": {
+      "frame": {
+        "x": 101,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_022": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_023": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_024": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_025": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_026": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_027": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_death_028": {
+      "frame": {
+        "x": 101,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_hit_000": {
+      "frame": {
+        "x": 303,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_hit_001": {
+      "frame": {
+        "x": 303,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_hit_002": {
+      "frame": {
+        "x": 303,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_000": {
+      "frame": {
+        "x": 101,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_001": {
+      "frame": {
+        "x": 101,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_002": {
+      "frame": {
+        "x": 101,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_003": {
+      "frame": {
+        "x": 101,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_004": {
+      "frame": {
+        "x": 101,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_005": {
+      "frame": {
+        "x": 101,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_006": {
+      "frame": {
+        "x": 0,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_007": {
+      "frame": {
+        "x": 0,
+        "y": 808,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_008": {
+      "frame": {
+        "x": 505,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_009": {
+      "frame": {
+        "x": 1010,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_010": {
+      "frame": {
+        "x": 505,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_idle_011": {
+      "frame": {
+        "x": 404,
+        "y": 909,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_000": {
+      "frame": {
+        "x": 0,
+        "y": 707,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_001": {
+      "frame": {
+        "x": 0,
+        "y": 606,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_002": {
+      "frame": {
+        "x": 0,
+        "y": 505,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_003": {
+      "frame": {
+        "x": 0,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_004": {
+      "frame": {
+        "x": 0,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_005": {
+      "frame": {
+        "x": 0,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_006": {
+      "frame": {
+        "x": 0,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    },
+    "f3_allomancer_run_007": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false
+    }
+  }
+}

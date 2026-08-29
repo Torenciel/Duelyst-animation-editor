@@ -1,0 +1,1057 @@
+{
+  "frames": {
+    "f6_altgeneraltier2_attack_000": {
+      "frame": {
+        "x": 423,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_001": {
+      "frame": {
+        "x": 987,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_002": {
+      "frame": {
+        "x": 987,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_003": {
+      "frame": {
+        "x": 987,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_004": {
+      "frame": {
+        "x": 987,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_005": {
+      "frame": {
+        "x": 987,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_006": {
+      "frame": {
+        "x": 987,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_007": {
+      "frame": {
+        "x": 987,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_008": {
+      "frame": {
+        "x": 987,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_009": {
+      "frame": {
+        "x": 987,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_010": {
+      "frame": {
+        "x": 987,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_011": {
+      "frame": {
+        "x": 846,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_012": {
+      "frame": {
+        "x": 846,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_013": {
+      "frame": {
+        "x": 846,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_014": {
+      "frame": {
+        "x": 846,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_015": {
+      "frame": {
+        "x": 846,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_016": {
+      "frame": {
+        "x": 846,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_017": {
+      "frame": {
+        "x": 846,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_018": {
+      "frame": {
+        "x": 846,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_019": {
+      "frame": {
+        "x": 846,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_020": {
+      "frame": {
+        "x": 846,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_021": {
+      "frame": {
+        "x": 846,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_022": {
+      "frame": {
+        "x": 846,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_023": {
+      "frame": {
+        "x": 846,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_024": {
+      "frame": {
+        "x": 846,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_025": {
+      "frame": {
+        "x": 705,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_026": {
+      "frame": {
+        "x": 705,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_027": {
+      "frame": {
+        "x": 705,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_028": {
+      "frame": {
+        "x": 705,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_attack_029": {
+      "frame": {
+        "x": 705,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_000": {
+      "frame": {
+        "x": 705,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_001": {
+      "frame": {
+        "x": 705,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_002": {
+      "frame": {
+        "x": 705,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_003": {
+      "frame": {
+        "x": 705,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_004": {
+      "frame": {
+        "x": 705,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_005": {
+      "frame": {
+        "x": 705,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_006": {
+      "frame": {
+        "x": 705,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_007": {
+      "frame": {
+        "x": 705,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_008": {
+      "frame": {
+        "x": 705,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_009": {
+      "frame": {
+        "x": 705,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_010": {
+      "frame": {
+        "x": 705,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_011": {
+      "frame": {
+        "x": 564,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_012": {
+      "frame": {
+        "x": 564,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_breathing_013": {
+      "frame": {
+        "x": 564,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_000": {
+      "frame": {
+        "x": 564,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_001": {
+      "frame": {
+        "x": 564,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_002": {
+      "frame": {
+        "x": 564,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_003": {
+      "frame": {
+        "x": 564,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_004": {
+      "frame": {
+        "x": 564,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_005": {
+      "frame": {
+        "x": 564,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_006": {
+      "frame": {
+        "x": 564,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_007": {
+      "frame": {
+        "x": 564,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_008": {
+      "frame": {
+        "x": 564,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_009": {
+      "frame": {
+        "x": 564,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_010": {
+      "frame": {
+        "x": 564,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_011": {
+      "frame": {
+        "x": 423,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_cast_012": {
+      "frame": {
+        "x": 987,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castend_000": {
+      "frame": {
+        "x": 423,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castend_001": {
+      "frame": {
+        "x": 423,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castend_002": {
+      "frame": {
+        "x": 423,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castend_003": {
+      "frame": {
+        "x": 423,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castloop_000": {
+      "frame": {
+        "x": 423,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castloop_001": {
+      "frame": {
+        "x": 423,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castloop_002": {
+      "frame": {
+        "x": 423,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castloop_003": {
+      "frame": {
+        "x": 423,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castloop_004": {
+      "frame": {
+        "x": 423,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_castloop_005": {
+      "frame": {
+        "x": 423,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_caststart_000": {
+      "frame": {
+        "x": 423,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_caststart_001": {
+      "frame": {
+        "x": 423,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_caststart_002": {
+      "frame": {
+        "x": 423,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_caststart_003": {
+      "frame": {
+        "x": 423,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_000": {
+      "frame": {
+        "x": 423,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_001": {
+      "frame": {
+        "x": 423,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_002": {
+      "frame": {
+        "x": 282,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_003": {
+      "frame": {
+        "x": 282,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_004": {
+      "frame": {
+        "x": 282,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_005": {
+      "frame": {
+        "x": 282,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_006": {
+      "frame": {
+        "x": 282,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_007": {
+      "frame": {
+        "x": 282,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_008": {
+      "frame": {
+        "x": 282,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_009": {
+      "frame": {
+        "x": 282,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_010": {
+      "frame": {
+        "x": 282,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_011": {
+      "frame": {
+        "x": 282,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_012": {
+      "frame": {
+        "x": 282,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_013": {
+      "frame": {
+        "x": 282,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_014": {
+      "frame": {
+        "x": 282,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_015": {
+      "frame": {
+        "x": 282,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_016": {
+      "frame": {
+        "x": 141,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_017": {
+      "frame": {
+        "x": 141,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_death_018": {
+      "frame": {
+        "x": 141,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_hit_000": {
+      "frame": {
+        "x": 423,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_hit_001": {
+      "frame": {
+        "x": 423,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_hit_002": {
+      "frame": {
+        "x": 141,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_000": {
+      "frame": {
+        "x": 141,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_001": {
+      "frame": {
+        "x": 141,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_002": {
+      "frame": {
+        "x": 141,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_003": {
+      "frame": {
+        "x": 141,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_004": {
+      "frame": {
+        "x": 141,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_005": {
+      "frame": {
+        "x": 141,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_006": {
+      "frame": {
+        "x": 141,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_007": {
+      "frame": {
+        "x": 141,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_008": {
+      "frame": {
+        "x": 141,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_009": {
+      "frame": {
+        "x": 141,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_010": {
+      "frame": {
+        "x": 0,
+        "y": 1833,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_011": {
+      "frame": {
+        "x": 0,
+        "y": 1692,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_012": {
+      "frame": {
+        "x": 0,
+        "y": 1551,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_013": {
+      "frame": {
+        "x": 0,
+        "y": 1410,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_014": {
+      "frame": {
+        "x": 0,
+        "y": 1269,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_idle_015": {
+      "frame": {
+        "x": 0,
+        "y": 1128,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_000": {
+      "frame": {
+        "x": 0,
+        "y": 987,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_001": {
+      "frame": {
+        "x": 0,
+        "y": 846,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_002": {
+      "frame": {
+        "x": 0,
+        "y": 705,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_003": {
+      "frame": {
+        "x": 0,
+        "y": 564,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_004": {
+      "frame": {
+        "x": 0,
+        "y": 423,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_005": {
+      "frame": {
+        "x": 0,
+        "y": 282,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_006": {
+      "frame": {
+        "x": 0,
+        "y": 141,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    },
+    "f6_altgeneraltier2_run_007": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false
+    }
+  }
+}

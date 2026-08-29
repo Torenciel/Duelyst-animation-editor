@@ -1,0 +1,976 @@
+{
+  "frames": {
+    "f5_3rdgeneral_attack_000": {
+      "frame": {
+        "x": 786,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_001": {
+      "frame": {
+        "x": 1572,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_002": {
+      "frame": {
+        "x": 1572,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_003": {
+      "frame": {
+        "x": 1572,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_004": {
+      "frame": {
+        "x": 1572,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_005": {
+      "frame": {
+        "x": 1572,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_006": {
+      "frame": {
+        "x": 1572,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_007": {
+      "frame": {
+        "x": 1572,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_008": {
+      "frame": {
+        "x": 1441,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_009": {
+      "frame": {
+        "x": 1441,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_010": {
+      "frame": {
+        "x": 1441,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_011": {
+      "frame": {
+        "x": 1441,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_012": {
+      "frame": {
+        "x": 1441,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_013": {
+      "frame": {
+        "x": 1441,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_014": {
+      "frame": {
+        "x": 1441,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_015": {
+      "frame": {
+        "x": 1310,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_016": {
+      "frame": {
+        "x": 1310,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_attack_017": {
+      "frame": {
+        "x": 1310,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_000": {
+      "frame": {
+        "x": 1310,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_001": {
+      "frame": {
+        "x": 1310,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_002": {
+      "frame": {
+        "x": 1310,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_003": {
+      "frame": {
+        "x": 1310,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_004": {
+      "frame": {
+        "x": 1310,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_005": {
+      "frame": {
+        "x": 1310,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_006": {
+      "frame": {
+        "x": 1310,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_007": {
+      "frame": {
+        "x": 1310,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_008": {
+      "frame": {
+        "x": 1310,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_009": {
+      "frame": {
+        "x": 1310,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_010": {
+      "frame": {
+        "x": 1310,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_011": {
+      "frame": {
+        "x": 1310,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_012": {
+      "frame": {
+        "x": 1310,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_breathing_013": {
+      "frame": {
+        "x": 1310,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_000": {
+      "frame": {
+        "x": 1179,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_001": {
+      "frame": {
+        "x": 1179,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_002": {
+      "frame": {
+        "x": 1179,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_003": {
+      "frame": {
+        "x": 1179,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_004": {
+      "frame": {
+        "x": 1179,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_005": {
+      "frame": {
+        "x": 1179,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_006": {
+      "frame": {
+        "x": 1179,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_007": {
+      "frame": {
+        "x": 1048,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_008": {
+      "frame": {
+        "x": 1048,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_009": {
+      "frame": {
+        "x": 1048,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_010": {
+      "frame": {
+        "x": 1048,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_011": {
+      "frame": {
+        "x": 1048,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_012": {
+      "frame": {
+        "x": 1048,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_cast_013": {
+      "frame": {
+        "x": 1048,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castend_000": {
+      "frame": {
+        "x": 917,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castend_001": {
+      "frame": {
+        "x": 917,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castend_002": {
+      "frame": {
+        "x": 786,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_000": {
+      "frame": {
+        "x": 917,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_001": {
+      "frame": {
+        "x": 917,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_002": {
+      "frame": {
+        "x": 917,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_003": {
+      "frame": {
+        "x": 917,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_004": {
+      "frame": {
+        "x": 917,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_005": {
+      "frame": {
+        "x": 786,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_006": {
+      "frame": {
+        "x": 786,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_007": {
+      "frame": {
+        "x": 786,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_008": {
+      "frame": {
+        "x": 1703,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_009": {
+      "frame": {
+        "x": 786,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_010": {
+      "frame": {
+        "x": 786,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_011": {
+      "frame": {
+        "x": 786,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_012": {
+      "frame": {
+        "x": 655,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_castloop_013": {
+      "frame": {
+        "x": 655,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_caststart_000": {
+      "frame": {
+        "x": 655,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_caststart_001": {
+      "frame": {
+        "x": 917,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_caststart_002": {
+      "frame": {
+        "x": 655,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_000": {
+      "frame": {
+        "x": 786,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_001": {
+      "frame": {
+        "x": 655,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_002": {
+      "frame": {
+        "x": 655,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_003": {
+      "frame": {
+        "x": 655,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_004": {
+      "frame": {
+        "x": 524,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_005": {
+      "frame": {
+        "x": 524,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_006": {
+      "frame": {
+        "x": 524,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_007": {
+      "frame": {
+        "x": 524,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_008": {
+      "frame": {
+        "x": 524,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_009": {
+      "frame": {
+        "x": 524,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_010": {
+      "frame": {
+        "x": 524,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_011": {
+      "frame": {
+        "x": 393,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_012": {
+      "frame": {
+        "x": 393,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_013": {
+      "frame": {
+        "x": 393,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_014": {
+      "frame": {
+        "x": 393,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_015": {
+      "frame": {
+        "x": 393,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_death_016": {
+      "frame": {
+        "x": 393,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_hit_000": {
+      "frame": {
+        "x": 786,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_hit_001": {
+      "frame": {
+        "x": 655,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_hit_002": {
+      "frame": {
+        "x": 655,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_000": {
+      "frame": {
+        "x": 393,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_001": {
+      "frame": {
+        "x": 262,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_002": {
+      "frame": {
+        "x": 262,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_003": {
+      "frame": {
+        "x": 262,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_004": {
+      "frame": {
+        "x": 262,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_005": {
+      "frame": {
+        "x": 262,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_006": {
+      "frame": {
+        "x": 262,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_007": {
+      "frame": {
+        "x": 262,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_008": {
+      "frame": {
+        "x": 131,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_009": {
+      "frame": {
+        "x": 131,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_010": {
+      "frame": {
+        "x": 131,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_011": {
+      "frame": {
+        "x": 131,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_012": {
+      "frame": {
+        "x": 131,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_idle_013": {
+      "frame": {
+        "x": 131,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_000": {
+      "frame": {
+        "x": 131,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_001": {
+      "frame": {
+        "x": 0,
+        "y": 786,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_002": {
+      "frame": {
+        "x": 0,
+        "y": 655,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_003": {
+      "frame": {
+        "x": 0,
+        "y": 524,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_004": {
+      "frame": {
+        "x": 0,
+        "y": 393,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_005": {
+      "frame": {
+        "x": 0,
+        "y": 262,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_006": {
+      "frame": {
+        "x": 0,
+        "y": 131,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    },
+    "f5_3rdgeneral_run_007": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false
+    }
+  }
+}

@@ -2,8 +2,8 @@
 docs/
 
 # Generated assets — run converter scripts to populate these
-dist/
-dist-fx/
+/dist/
+/dist-fx/
 
 # User edits — not part of the repo
 dist-custom/*

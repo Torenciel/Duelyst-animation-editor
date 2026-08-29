@@ -1,0 +1,534 @@
+[
+  {
+    "key": "f4_3rdgeneral_attack",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_attack_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_004",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_005",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_006",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_007",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_008",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_009",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_010",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_011",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_012",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_013",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_014",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_015",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_016",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_017",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_018",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_019",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_020",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_021",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_022",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_023",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_024",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_025",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_026",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_027",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_028",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_029",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_030",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_031",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_attack_032",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_breathing",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_breathing_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_004",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_005",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_006",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_007",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_008",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_009",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_010",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_011",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_012",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_breathing_013",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_cast",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_cast_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_004",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_005",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_006",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_007",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_008",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_009",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_010",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_011",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_012",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_013",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_014",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_015",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_cast_016",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_castend",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_castend_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castend_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castend_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castend_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castend_004",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_castloop",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_castloop_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castloop_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castloop_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_castloop_003",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_caststart",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_caststart_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_caststart_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_caststart_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_caststart_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_caststart_004",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_death",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_death_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_004",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_005",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_006",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_007",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_008",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_009",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_death_010",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_hit",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_hit_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_hit_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_hit_002",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_idle",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_idle_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_004",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_005",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_006",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_007",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_008",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_009",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_010",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_011",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_012",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_013",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_014",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_idle_015",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "key": "f4_3rdgeneral_run",
+    "repeat": -1,
+    "frames": [
+      {
+        "name": "f4_3rdgeneral_run_000",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_001",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_002",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_003",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_004",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_005",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_006",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_007",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_008",
+        "duration": 50
+      },
+      {
+        "name": "f4_3rdgeneral_run_009",
+        "duration": 50
+      }
+    ]
+  }
+]

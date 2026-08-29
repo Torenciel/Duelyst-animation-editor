@@ -1,0 +1,120 @@
+[
+  {
+    "key": "fx_f5_mindsteal",
+    "repeat": 0,
+    "frames": [
+      {
+        "name": "fx_f5_mindsteal_000",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_001",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_002",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_003",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_004",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_005",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_006",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_007",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_008",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_009",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_010",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_011",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_012",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_013",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_014",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_015",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_016",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_017",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_018",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_019",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_020",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_021",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_022",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_023",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_024",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_025",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_026",
+        "duration": 50
+      },
+      {
+        "name": "fx_f5_mindsteal_027",
+        "duration": 50
+      }
+    ]
+  }
+]
