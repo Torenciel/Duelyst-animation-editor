@@ -1,0 +1,22 @@
+# Generated assets — run converter scripts to populate these
+dist/
+dist-fx/
+
+# User edits — not part of the repo
+dist-custom/*
+dist-fx-custom/*
+
+# Background map PNGs from Duelyst source
+background/*
+
+# Keep folder structure
+!dist-custom/.gitkeep
+!dist-fx-custom/.gitkeep
+!background/.gitkeep
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
