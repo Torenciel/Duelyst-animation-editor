@@ -27,6 +27,7 @@ import { refreshJsonPanel } from "./json-display.js";
 import { renderFrameEditor } from "./frame-editor.js";
 import { syncProjPanelFromConfig, setProjReleased, setProjElapsed } from "./projectile.js";
 import { setScrubbing } from "./controls.js";
+import { STATIC_MODE } from "./config.js";
 import { SpriteAnimator } from "./sprite-animator.js";
 
 export function rebuildAnimator() {
@@ -68,9 +69,11 @@ export function buildAnimBar(name) {
   renameAnimBtn.onclick = renameCurrentAnim;
   duplicateBtn.onclick = duplicateCurrentAnim;
   deleteAnimBtn.onclick = deleteCurrentAnim;
-  animBtnGroup.appendChild(renameAnimBtn);
-  animBtnGroup.appendChild(duplicateBtn);
-  animBtnGroup.appendChild(deleteAnimBtn);
+  if (!STATIC_MODE) {
+    animBtnGroup.appendChild(renameAnimBtn);
+    animBtnGroup.appendChild(duplicateBtn);
+    animBtnGroup.appendChild(deleteAnimBtn);
+  }
 
   const isCustomTab = activeTab === "units-custom" || activeTab === "fx-custom";
   if (isCustomTab) {

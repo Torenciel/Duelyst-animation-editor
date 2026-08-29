@@ -10,6 +10,7 @@ import { STATIC_MODE } from "./config.js";
 
 if (STATIC_MODE) {
   document.getElementById("import-toggle-btn").style.display = "none";
+  document.getElementById("save-btn").style.display = "none";
 }
 
 loadFxManifests();
