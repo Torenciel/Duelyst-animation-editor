@@ -65,7 +65,7 @@ const configPath = path.join(DOCS, "src", "config.js");
 let config = fs.readFileSync(configPath, "utf8");
 config = config.replace(
   `export const API = "http://localhost:3000";`,
-  `export const API = "";`,
+  `export const API = ".";`,
 );
 config = config.replace(
   `export const STATIC_MODE = false;`,

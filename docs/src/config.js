@@ -1,4 +1,4 @@
-export const API = "";
+export const API = ".";
 export const STATIC_MODE = true;
 
 export const TABS = {
