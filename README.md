@@ -138,7 +138,7 @@ demo-assets/
 **Build and deploy:**
 
 ```bash
-node build-docs.js
+node build-docs.mjs
 ```
 
 Then commit `docs/` and `demo-assets/`, and enable GitHub Pages → **Deploy from branch** → `main` / `docs/` in repo settings.

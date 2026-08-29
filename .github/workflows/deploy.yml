@@ -27,7 +27,7 @@ jobs:
           node-version: 20
 
       - name: Build docs
-        run: node build-docs.js
+        run: node build-docs.mjs
 
       - uses: actions/configure-pages@v5
 
