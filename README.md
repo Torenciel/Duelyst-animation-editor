@@ -8,22 +8,6 @@ A browser-based tool for viewing and editing Duelyst sprite animations, with a c
 
 ---
 
-## Stack
-
-| Layer          | Technology                                   |
-| -------------- | -------------------------------------------- |
-| Runtime        | Node.js (no npm packages — stdlib only)      |
-| Server         | Native `node:http` module                    |
-| Frontend       | Vanilla JavaScript (ES6 modules, no bundler) |
-| Rendering      | Canvas 2D API                                |
-| Input format   | Cocos2d `.plist` spritesheets + PNGs         |
-| Output format  | JSON atlas + JSON animation definitions      |
-| Import support | Aseprite JSON Hash exports                   |
-
-The entire tool runs without installing any dependencies — `node server.js` is the only command needed after placing your assets.
-
----
-
 ## Viewer features
 
 ### Tabs
@@ -71,6 +55,22 @@ The entire tool runs without installing any dependencies — `node server.js` is
 | Delete | Delete selected frame(s)        |
 | ↑ / ↓  | Previous / next unit in list    |
 | 1–9    | Switch to animation by position |
+
+---
+
+## Stack
+
+| Layer          | Technology                                   |
+| -------------- | -------------------------------------------- |
+| Runtime        | Node.js (no npm packages — stdlib only)      |
+| Server         | Native `node:http` module                    |
+| Frontend       | Vanilla JavaScript (ES6 modules, no bundler) |
+| Rendering      | Canvas 2D API                                |
+| Input format   | Cocos2d `.plist` spritesheets + PNGs         |
+| Output format  | JSON atlas + JSON animation definitions      |
+| Import support | Aseprite JSON Hash exports                   |
+
+The entire tool runs without installing any dependencies — `node server.js` is the only command needed after placing your assets.
 
 ---
 
