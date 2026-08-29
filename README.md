@@ -1,8 +1,24 @@
 # Duelyst Animation Editor
 
-A browser-based tool for viewing and editing Duelyst sprite animations, with a conversion pipeline to transform the original `.plist` spritesheets into a format compatible with Phaser 3 and Canvas 2D.
+A browser-based tool for viewing and editing Duelyst sprite animations, with a conversion pipeline to transform the original Cocos2d `.plist` spritesheets into a format compatible with Phaser 3 and Canvas 2D.
 
 ![demo](demo.gif)
+
+---
+
+## Stack
+
+| Layer          | Technology                                   |
+| -------------- | -------------------------------------------- |
+| Runtime        | Node.js (no npm packages — stdlib only)      |
+| Server         | Native `node:http` module                    |
+| Frontend       | Vanilla JavaScript (ES6 modules, no bundler) |
+| Rendering      | Canvas 2D API                                |
+| Input format   | Cocos2d `.plist` spritesheets + PNGs         |
+| Output format  | JSON atlas + JSON animation definitions      |
+| Import support | Aseprite JSON Hash exports                   |
+
+The entire tool runs without installing any dependencies — `node server.js` is the only command needed after placing your assets.
 
 ---
 
@@ -30,15 +46,45 @@ A browser-based tool for viewing and editing Duelyst sprite animations, with a c
 
 ---
 
-## Folder structure
+## Project structure
 
 ```
-src/                 Viewer app — ES modules
-dist/                Converted unit spritesheets (generated, not committed)
-dist-custom/         Edited/custom units — viewer saves here
-dist-fx/             Converted FX spritesheets (generated, not committed)
-dist-fx-custom/      Custom FX + Aseprite imports
-background/          Map background PNGs for viewer preview
+├── src/                       # Viewer app — ES modules loaded directly in browser
+│   ├── index.js               #   Entry point: loads manifest, wires components
+│   ├── state.js               #   Central application state
+│   ├── animation-manager.js   #   Animation state and playback logic
+│   ├── sprite-animator.js     #   Frame-stepping engine (Canvas 2D)
+│   ├── canvas.js              #   Low-level canvas rendering
+│   ├── frame-editor.js        #   Frame manipulation UI (reorder, dup, delete)
+│   ├── controls.js            #   Toolbar buttons and UI bindings
+│   ├── item-loader.js         #   Loads unit/FX manifests and assets
+│   ├── projectile.js          #   Projectile config and canvas marker
+│   ├── aseprite-import.js     #   Aseprite JSON Hash import handler
+│   ├── persistence.js         #   Save to dist-custom / dist-fx-custom
+│   ├── keyboard.js            #   Keyboard shortcut handlers
+│   ├── json-display.js        #   Live JSON inspector panel
+│   ├── dom.js                 #   DOM helper utilities
+│   └── config.js              #   Config loading utilities
+│
+├── viewer.html                # Single-page app entry point
+├── viewer.css                 # All styles
+├── server.js                  # Static file server + save API endpoint
+├── config.json                # Paths to Duelyst source assets (user-edited)
+│
+├── convert-units-plist.js     # Batch converter: .plist units → dist/
+├── convert-fx.js              # Batch converter: .plist FX → dist-fx/
+├── make-manifest.js           # Generates dist/manifest.json index
+│
+├── demo-assets/               # Hand-picked assets for the GitHub Pages demo (committed)
+│   ├── dist/                  #   Demo units
+│   ├── dist-fx/               #   Demo FX
+│   └── background/            #   Demo backgrounds
+│
+├── dist/                      # Converted unit spritesheets (generated, not committed)
+├── dist-custom/               # Edited/custom units — viewer saves here
+├── dist-fx/                   # Converted FX spritesheets (generated, not committed)
+├── dist-fx-custom/            # Custom FX + Aseprite imports
+└── background/                # Map background PNGs for viewer preview
 ```
 
 ---
@@ -71,6 +117,31 @@ node server.js
 ```
 
 Then open `http://localhost:3000` in your browser.
+
+---
+
+## GitHub Pages demo (read-only)
+
+A static version of the viewer can be deployed to GitHub Pages via the `docs/` folder. It supports browsing and playing animations but cannot save back to disk (the Save button downloads the edited JSON instead).
+
+The demo is sourced from `demo-assets/` — a hand-picked subset of units/FX committed to the repo — so `dist/` (which can be hundreds of MBs) never gets pushed.
+
+**Populate `demo-assets/`:**
+
+```
+demo-assets/
+  dist/        ← copy chosen unit files here (.png, .json, _anims.json) + manifest.json
+  dist-fx/     ← copy chosen FX files here  (.png, .json, _anims.json) + manifest.json
+  background/  ← copy map background PNGs here (optional)
+```
+
+**Build and deploy:**
+
+```bash
+node build-docs.js
+```
+
+Then commit `docs/` and `demo-assets/`, and enable GitHub Pages → **Deploy from branch** → `main` / `docs/` in repo settings.
 
 ---
 

@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Duelyst Viewer</title>
+    <link rel="stylesheet" href="viewer.css">
+  </head>
+  <body>
+    <div id="layout">
+      <!-- Sidebar -->
+      <div id="sidebar">
+        <div id="tabs">
+          <div class="tab active" data-tab="units">Units</div>
+          <div class="tab" data-tab="fx">FX</div>
+          <div class="tab" data-tab="units-custom">Units ★</div>
+          <div class="tab" data-tab="fx-custom">FX ★</div>
+        </div>
+        <div id="search">
+          <input
+            id="search-input"
+            type="text"
+            placeholder="Search…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div id="item-count"></div>
+        <div id="item-list"></div>
+      </div>
+
+      <!-- Main -->
+      <div id="main">
+        <!-- Anim buttons + editor actions -->
+        <div id="anim-bar">
+          <div id="anim-btn-group"></div>
+          <div id="anim-bar-spacer"></div>
+          <button id="import-toggle-btn">⬇ Import Aseprite FX</button>
+          <button id="open-folder-btn">📁 Open folder</button>
+        </div>
+        <div id="import-panel">
+          <div id="import-row">
+            <label>Name</label>
+            <input id="import-name" type="text" placeholder="fx_arrow_lyonar" spellcheck="false" />
+            <button id="import-repeat-btn">Repeat: loop</button>
+          </div>
+          <div id="import-drop">
+            Drop Aseprite JSON here, or <u>click to browse</u>
+            <input id="import-file" type="file" accept=".json" />
+          </div>
+          <div id="import-result">
+            <span id="import-status" style="color:#555a70;font-size:11px;"></span>
+            <div style="display:flex;gap:8px;align-items:center;">
+              <button id="import-save-btn" class="import-dl-btn">↑ Save to dist-fx-custom</button>
+              <span id="import-save-status" style="font-size:11px;color:#555a70;"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Canvas row: preview + JSON panel side by side -->
+        <div id="canvas-row">
+          <div id="canvas-wrap">
+            <div id="placeholder">← Select an item to preview</div>
+            <canvas id="canvas" style="display: none"></canvas>
+            <canvas id="fx-overlay" style="display:none;position:absolute;pointer-events:none;image-rendering:pixelated"></canvas>
+          </div>
+
+          <!-- JSON panel -->
+          <div id="json-panel">
+            <div id="json-panel-header">anims.json</div>
+            <div id="json-content">
+              <span style="color: #2a2e42">No animation loaded</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Frame editor (shown when an animation is active on units tab) -->
+        <div id="frame-editor">
+          <!-- Projectile config panel -->
+          <div id="proj-panel">
+            <label>Projectile FX</label>
+            <div id="proj-fx-wrap">
+              <input
+                id="proj-fx-search"
+                type="text"
+                placeholder="Search FX…"
+                autocomplete="off"
+                spellcheck="false"
+              />
+              <div id="proj-fx-dropdown"></div>
+            </div>
+            <div class="proj-sep"></div>
+            <label>Release frame</label>
+            <input id="proj-release-input" type="number" min="0" value="0" />
+            <div class="proj-sep"></div>
+            <label>Scale</label>
+            <input id="proj-scale-input" type="number" min="0.1" step="0.1" value="1.0" style="width:54px;text-align:center;" />
+            <div class="proj-sep"></div>
+            <label>Speed</label>
+            <input
+              id="proj-speed-input"
+              type="number"
+              min="0.01"
+              step="0.05"
+              value="0.6"
+            />
+            <div class="proj-sep"></div>
+            <button id="proj-set-origin-btn">+ Origin</button>
+            <input id="proj-ox-input" type="number" step="1" placeholder="X" style="width:46px;text-align:center;background:#1a1c26;border:1px solid #2a2e42;border-radius:4px;color:#f28c5e;padding:3px 4px;font-size:12px;outline:none;" />
+            <input id="proj-oy-input" type="number" step="1" placeholder="Y" style="width:46px;text-align:center;background:#1a1c26;border:1px solid #2a2e42;border-radius:4px;color:#f28c5e;padding:3px 4px;font-size:12px;outline:none;" />
+            <button id="proj-clear-btn">Clear</button>
+            <div class="proj-sep"></div>
+            <button id="proj-save-btn" disabled>Save config</button>
+          </div>
+          <div id="frame-toolbar">
+            <button id="play-btn">▶</button>
+            <input
+              id="frame-slider"
+              type="range"
+              min="0"
+              max="0"
+              step="1"
+              value="0"
+            />
+            <span id="frame-val">1/1</span>
+            <button id="loop-btn">↺ Loop</button>
+            <div class="ctrl-sep"></div>
+            <button id="dup-frame-btn" disabled>⧉ Dup</button>
+            <button id="hide-frame-btn">◑ Hide</button>
+            <button id="del-frame-btn" disabled>✕ Delete</button>
+            <div class="ctrl-sep"></div>
+            <label>Scale</label>
+            <input
+              id="scale-slider"
+              class="ctrl-slider"
+              type="range"
+              min="0.5"
+              max="8"
+              step="0.5"
+              value="2"
+            />
+            <span id="scale-val" class="ctrl-val">2×</span>
+            <label>Speed</label>
+            <input
+              id="speed-slider"
+              class="ctrl-slider"
+              type="range"
+              min="0.25"
+              max="4"
+              step="0.25"
+              value="1"
+            />
+            <span id="speed-val" class="ctrl-val">1×</span>
+            <div class="ctrl-sep"></div>
+            <label>Set all:</label>
+            <input
+              id="global-dur"
+              type="number"
+              min="1"
+              max="9999"
+              value="50"
+            />
+            <label>ms</label>
+            <button id="apply-dur-btn">Apply</button>
+            <button id="repeat-btn">Repeat: on</button>
+            <div class="ctrl-sep"></div>
+            <label>BG</label>
+            <select id="bg-select">
+              <option value="">None</option>
+              <option value="abyssian">abyssian</option>
+              <option value="battlemap1">battlemap1</option>
+              <option value="battlemap2">battlemap2</option>
+              <option value="battlemap4">battlemap4</option>
+              <option value="battlemap6">battlemap6</option>
+              <option value="battlemap7">battlemap7</option>
+              <option value="shimzar">shimzar</option>
+              <option value="vanar">vanar</option>
+            </select>
+            <div class="ctrl-sep"></div>
+            <div id="toolbar-spacer"></div>
+            <button id="save-btn">Save</button>
+          </div>
+          <div id="frame-strip"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── App ─────────────────────────────────────────────────────────────── -->
+    <script type="module" src="src/index.js"></script>
+  </body>
+</html>
