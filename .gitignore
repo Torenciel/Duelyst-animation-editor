@@ -1,3 +1,6 @@
+# Generated static site — built by GitHub Actions
+docs/
+
 # Generated assets — run converter scripts to populate these
 dist/
 dist-fx/
