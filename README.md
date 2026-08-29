@@ -24,129 +24,6 @@ The entire tool runs without installing any dependencies — `node server.js` is
 
 ---
 
-## Requirements
-
-- Node.js (no npm packages needed)
-- Source assets from the open-source [Duelyst repo](https://github.com/88dots/duelyst)
-
----
-
-## Setup
-
-1. Clone this repo
-2. Edit `config.json` with the paths to your local Duelyst source assets:
-
-```json
-{
-  "unitsDir": "/path/to/duelyst/app/resources/units",
-  "fxDir": "/path/to/duelyst/app/resources/fx"
-}
-```
-
-3. Run the converter scripts to populate `dist/` and `dist-fx/`
-4. Start the server and open the viewer
-
----
-
-## Project structure
-
-```
-├── src/                       # Viewer app — ES modules loaded directly in browser
-│   ├── index.js               #   Entry point: loads manifest, wires components
-│   ├── state.js               #   Central application state
-│   ├── animation-manager.js   #   Animation state and playback logic
-│   ├── sprite-animator.js     #   Frame-stepping engine (Canvas 2D)
-│   ├── canvas.js              #   Low-level canvas rendering
-│   ├── frame-editor.js        #   Frame manipulation UI (reorder, dup, delete)
-│   ├── controls.js            #   Toolbar buttons and UI bindings
-│   ├── item-loader.js         #   Loads unit/FX manifests and assets
-│   ├── projectile.js          #   Projectile config and canvas marker
-│   ├── aseprite-import.js     #   Aseprite JSON Hash import handler
-│   ├── persistence.js         #   Save to dist-custom / dist-fx-custom
-│   ├── keyboard.js            #   Keyboard shortcut handlers
-│   ├── json-display.js        #   Live JSON inspector panel
-│   ├── dom.js                 #   DOM helper utilities
-│   └── config.js              #   Config loading utilities
-│
-├── viewer.html                # Single-page app entry point
-├── viewer.css                 # All styles
-├── server.js                  # Static file server + save API endpoint
-├── config.json                # Paths to Duelyst source assets (user-edited)
-│
-├── convert-units-plist.js     # Batch converter: .plist units → dist/
-├── convert-fx.js              # Batch converter: .plist FX → dist-fx/
-├── make-manifest.js           # Generates dist/manifest.json index
-│
-├── demo-assets/               # Hand-picked assets for the GitHub Pages demo (committed)
-│   ├── dist/                  #   Demo units
-│   ├── dist-fx/               #   Demo FX
-│   └── background/            #   Demo backgrounds
-│
-├── dist/                      # Converted unit spritesheets (generated, not committed)
-├── dist-custom/               # Edited/custom units — viewer saves here
-├── dist-fx/                   # Converted FX spritesheets (generated, not committed)
-├── dist-fx-custom/            # Custom FX + Aseprite imports
-└── background/                # Map background PNGs for viewer preview
-```
-
----
-
-## Converter scripts
-
-Convert all source `.plist` spritesheets to the output format:
-
-```bash
-# Convert all units → dist/
-node convert-units-plist.js
-
-# Convert all FX → dist-fx/
-node convert-fx.js
-
-# Regenerate dist/manifest.json (required after adding new units)
-node make-manifest.js
-```
-
-> **Naming rule:** the `_anims` suffix must always be last.
-> ✓ `neutral_metaltooth_recolor_anims.json`
-> ✗ `neutral_metaltooth_anims_recolor.json`
-
----
-
-## Running the viewer
-
-```bash
-node server.js
-```
-
-Then open `http://localhost:3000` in your browser.
-
----
-
-## GitHub Pages demo (read-only)
-
-A static version of the viewer can be deployed to GitHub Pages via the `docs/` folder. It supports browsing and playing animations but cannot save back to disk (the Save button downloads the edited JSON instead).
-
-The demo is sourced from `demo-assets/` — a hand-picked subset of units/FX committed to the repo — so `dist/` (which can be hundreds of MBs) never gets pushed.
-
-**Populate `demo-assets/`:**
-
-```
-demo-assets/
-  dist/        ← copy chosen unit files here (.png, .json, _anims.json) + manifest.json
-  dist-fx/     ← copy chosen FX files here  (.png, .json, _anims.json) + manifest.json
-  background/  ← copy map background PNGs here (optional)
-```
-
-**Build and deploy:**
-
-```bash
-node build-docs.mjs
-```
-
-Then commit `docs/` and `demo-assets/`, and enable GitHub Pages → **Deploy from branch** → `main` / `docs/` in repo settings.
-
----
-
 ## Viewer features
 
 ### Tabs
@@ -194,6 +71,104 @@ Then commit `docs/` and `demo-assets/`, and enable GitHub Pages → **Deploy fro
 | Delete | Delete selected frame(s)        |
 | ↑ / ↓  | Previous / next unit in list    |
 | 1–9    | Switch to animation by position |
+
+---
+
+## Project structure
+
+```
+├── src/                       # Viewer app — ES modules loaded directly in browser
+│   ├── index.js               #   Entry point: loads manifest, wires components
+│   ├── state.js               #   Central application state
+│   ├── animation-manager.js   #   Animation state and playback logic
+│   ├── sprite-animator.js     #   Frame-stepping engine (Canvas 2D)
+│   ├── canvas.js              #   Low-level canvas rendering
+│   ├── frame-editor.js        #   Frame manipulation UI (reorder, dup, delete)
+│   ├── controls.js            #   Toolbar buttons and UI bindings
+│   ├── item-loader.js         #   Loads unit/FX manifests and assets
+│   ├── projectile.js          #   Projectile config and canvas marker
+│   ├── aseprite-import.js     #   Aseprite JSON Hash import handler
+│   ├── persistence.js         #   Save to dist-custom / dist-fx-custom
+│   ├── keyboard.js            #   Keyboard shortcut handlers
+│   ├── json-display.js        #   Live JSON inspector panel
+│   ├── dom.js                 #   DOM helper utilities
+│   └── config.js              #   Config loading utilities
+│
+├── viewer.html                # Single-page app entry point
+├── viewer.css                 # All styles
+├── server.js                  # Static file server + save API endpoint
+├── config.json                # Paths to Duelyst source assets (user-edited)
+│
+├── convert-units-plist.js     # Batch converter: .plist units → dist/
+├── convert-fx.js              # Batch converter: .plist FX → dist-fx/
+├── make-manifest.js           # Generates dist/manifest.json index
+│
+├── demo-assets/               # Hand-picked assets for the GitHub Pages demo (committed)
+│   ├── dist/                  #   Demo units
+│   ├── dist-fx/               #   Demo FX
+│   └── background/            #   Demo backgrounds
+│
+├── dist/                      # Converted unit spritesheets (generated, not committed)
+├── dist-custom/               # Edited/custom units — viewer saves here
+├── dist-fx/                   # Converted FX spritesheets (generated, not committed)
+├── dist-fx-custom/            # Custom FX + Aseprite imports
+└── background/                # Map background PNGs for viewer preview
+```
+
+---
+
+## Setup
+
+### Requirements
+
+- Node.js (no npm packages needed)
+- Source assets from the open-source [Duelyst repo](https://github.com/88dots/duelyst)
+
+### Installation
+
+1. Clone this repo
+2. Edit `config.json` with the paths to your local Duelyst source assets:
+
+```json
+{
+  "unitsDir": "/path/to/duelyst/app/resources/units",
+  "fxDir": "/path/to/duelyst/app/resources/fx"
+}
+```
+
+3. Run the converter scripts to populate `dist/` and `dist-fx/`
+4. Start the server and open the viewer
+
+---
+
+## Converter scripts
+
+Convert all source `.plist` spritesheets to the output format:
+
+```bash
+# Convert all units → dist/
+node convert-units-plist.js
+
+# Convert all FX → dist-fx/
+node convert-fx.js
+
+# Regenerate dist/manifest.json (required after adding new units)
+node make-manifest.js
+```
+
+> **Naming rule:** the `_anims` suffix must always be last.
+> ✓ `neutral_metaltooth_recolor_anims.json`
+> ✗ `neutral_metaltooth_anims_recolor.json`
+
+---
+
+## Running the viewer
+
+```bash
+node server.js
+```
+
+Then open `http://localhost:3000` in your browser.
 
 ---
 
@@ -279,3 +254,11 @@ Each unit or FX entry consists of three files:
 3. Copy `dist/{original_name}_anims.json` → `dist-custom/{original_name}_recolor_anims.json` and rename every frame `name` value and the animation `key` values the same way
 4. Place the recolored `.png` and both `.json` files into `dist-custom/`
 5. The unit appears in the Units ★ tab as `{original_name}_recolor`
+
+---
+
+## GitHub Pages demo
+
+The demo is built automatically by GitHub Actions on every push and deployed to GitHub Pages. It is sourced from `demo-assets/` — a hand-picked subset of units/FX committed to the repo — so `dist/` (which can be hundreds of MBs) never gets pushed.
+
+To add or change demo units, place their files in `demo-assets/dist/` or `demo-assets/dist-fx/` and update the corresponding `manifest.json`.
